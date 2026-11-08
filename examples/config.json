@@ -1,0 +1,7 @@
+{
+  "allowed_tools": ["calendar.today", "flights.search", "web.search", "web.fetch", "hotels.search"],
+  "max_tokens": 400,
+  "max_steps": 12,
+  "max_repeat": 2,
+  "canary": "CANARY-7Q2"
+}
